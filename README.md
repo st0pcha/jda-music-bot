@@ -1,4 +1,4 @@
-# JDA5 Music Bot
+# 🎶 JDA5 Music Bot
 Music bot on the [JDA5](https://github.com/DV8FromTheWorld/JDA)
 
 ### 🏃‍♂️ How to run?
