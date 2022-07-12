@@ -6,7 +6,7 @@ Music bot on the [JDA5](https://github.com/DV8FromTheWorld/JDA)
 2. Join into cloned folder `cd jda-music-bot` or double-click
 3. Insert your bot token into `Main.java` file
 4. Compile project with `mvn package`
-5. Run compiled jar-file with `java -jar jda-music-bot-1.0`
+5. Run compiled jar-file with `java -jar jda-music-bot-1.0.jar`
 
 ### 🔗 Dependencies
 [JDK 8](https://www.oracle.com/cis/java/technologies/javase/javase8-archive-downloads.html) (or higher) & [Maven](https://maven.apache.org/)
