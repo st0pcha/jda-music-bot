@@ -1,3 +1,5 @@
+[![Header](https://github.com/st0pcha/st0pcha/blob/main/assets/header.png)](https://st0pcha.github.io/)
+
 # 🎶 JDA5 Music Bot
 Music bot on the [JDA5](https://github.com/DV8FromTheWorld/JDA)
 
